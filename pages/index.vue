@@ -7,6 +7,9 @@
       <div class="links">
         
         <font-awesome-icon :icon="['fas','spinner']" /> 
+        <!-- This does not work
+          <font-awesome-icon :icon="['fas','spinner','spin']" /> 
+        -->
       </div>
     </div>
   </section>
